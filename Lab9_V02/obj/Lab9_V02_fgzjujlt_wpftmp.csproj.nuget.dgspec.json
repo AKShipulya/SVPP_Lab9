@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02\\Lab9_V02.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj",
+        "projectName": "Lab9_V02.Domain",
+        "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj",
+        "packagesPath": "C:\\Users\\a.shipulya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.shipulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj",
+        "projectName": "Lab9_V02.TestData",
+        "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj",
+        "packagesPath": "C:\\Users\\a.shipulya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.shipulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02\\Lab9_V02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02\\Lab9_V02.csproj",
+        "projectName": "Lab9_V02",
+        "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02\\Lab9_V02.csproj",
+        "packagesPath": "C:\\Users\\a.shipulya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.shipulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj"
+              },
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj"
+              },
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\Lab9_V02_Business.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\Lab9_V02_Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.39, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\Lab9_V02_Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\Lab9_V02_Business.csproj",
+        "projectName": "Lab9_V02_Business",
+        "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\Lab9_V02_Business.csproj",
+        "packagesPath": "C:\\Users\\a.shipulya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02_Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.shipulya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.Domain\\Lab9_V02.Domain.csproj"
+              },
+              "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj": {
+                "projectPath": "C:\\Users\\a.shipulya\\Documents\\Shipulya\\Softwareentwicklung\\BSUIR\\SVPP\\Lab9\\Lab9_V02\\Lab9_V02.TestData\\Lab9_V02.TestData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
